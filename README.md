@@ -10,9 +10,7 @@
  <a href="https://twitter.com/sabinshrestha" alt="sabin's twitter">
    <img src="https://img.shields.io/badge/-@sabinshrestha-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
  </a>
- <a>
-   <img src="https://komarev.com/ghpvc/?username=sabinshrestha&color=ff69b4&style=flat-square" />
- </a>
+ <img src="https://komarev.com/ghpvc/?username=sabinshrestha&color=ff69b4&style=flat-square" alt="profile views" />
 </p>
 
 ## 👨‍💻 About Me
