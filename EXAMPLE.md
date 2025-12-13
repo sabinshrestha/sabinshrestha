@@ -19,9 +19,7 @@ This is a filled-out example showing how your profile could look after customizi
  <a href="https://sabinshrestha.com" alt="website">
    <img src="https://img.shields.io/badge/sabinshrestha.com-brightgreen?style=flat-square" />
  </a>
- <a>
-   <img src="https://komarev.com/ghpvc/?username=sabinshrestha&color=ff69b4&style=flat-square" />
- </a>
+ <img src="https://komarev.com/ghpvc/?username=sabinshrestha&color=ff69b4&style=flat-square" />
 </p>
 
 
@@ -31,11 +29,13 @@ This is a filled-out example showing how your profile could look after customizi
 
 #### 💻 Open Source Contributions
 
+> **Note:** The links below are examples. Replace them with your actual projects.
+
 I actively contribute to open-source projects and believe in giving back to the community that has given me so much.
 
-- 💥 [Developer Tools Hub](https://github.com/sabinshrestha/dev-tools-hub): A collection of useful developer tools and utilities that enhance productivity
-- 🛒 [React Component Library](https://github.com/sabinshrestha/react-components): A modern, accessible React component library built with TypeScript and styled-components
-- 📬 [API Boilerplate](https://github.com/sabinshrestha/api-boilerplate): A production-ready REST API boilerplate with Node.js, Express, and PostgreSQL
+- 💥 [Developer Tools Hub](https://github.com/USERNAME/REPO): A collection of useful developer tools and utilities that enhance productivity
+- 🛒 [React Component Library](https://github.com/USERNAME/REPO): A modern, accessible React component library built with TypeScript and styled-components
+- 📬 [API Boilerplate](https://github.com/USERNAME/REPO): A production-ready REST API boilerplate with Node.js, Express, and PostgreSQL
 - 🥇 Various contributions to popular open-source projects and documentation improvements
 
 

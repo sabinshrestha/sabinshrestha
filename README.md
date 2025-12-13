@@ -26,9 +26,7 @@
  <a href="[YOUR_WEBSITE_URL]" alt="website">
    <img src="https://img.shields.io/badge/[YOUR_WEBSITE_DOMAIN]-brightgreen?style=flat-square" />
  </a>
- <a>
-   <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=ff69b4&style=flat-square" />
- </a>
+ <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=ff69b4&style=flat-square" />
 </p>
 
 

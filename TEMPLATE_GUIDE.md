@@ -160,7 +160,9 @@ You can add parameters to customize the stats card:
 <img src="https://github-readme-stats.vercel.app/api?username=johndoe&hide=stars,commits" />
 ```
 
-Available themes: `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`
+**Popular themes:** `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`
+
+For a complete list of themes, visit the [GitHub README Stats documentation](https://github.com/anuraghazra/github-readme-stats#themes).
 
 #### Additional Stats Options
 
