@@ -69,15 +69,11 @@ I believe in giving back to the community and actively contribute to open-source
 ---
 
 <p align="center">
-  <a href="#" alt="sabin's github stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=sabinshrestha&show_icons=true&theme=radical" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sabinshrestha&show_icons=true&theme=radical" alt="sabin's github stats" />
 </p>
 
 <p align="center">
-  <a href="#" alt="sabin's top languages">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabinshrestha&layout=compact&theme=radical" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabinshrestha&layout=compact&theme=radical" alt="sabin's top languages" />
 </p>
 
 <p align="center">
