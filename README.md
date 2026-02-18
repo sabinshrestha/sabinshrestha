@@ -88,8 +88,38 @@ BizTalk Orchestrations • Logic Apps • SharePoint • IIS • CI/CD • Activ
 > Most professional work has been delivered in **enterprise and government-controlled repositories** under strict security and compliance requirements.
 
 ---
+## 🏛️ Government & Compliance Experience
 
-## 🚀 Featured Project
+I have extensive experience delivering and supporting **mission-critical systems within government and justice environments**, where **security, auditability, and reliability** are mandatory—not optional.
+
+### ⚖️ Justice & Public Sector Systems
+- Supported and enhanced **court case management and ERP-style systems** used by judges, clerks, administrators, and external agencies.
+- Worked extensively with **Odyssey Court Management System** integrations and related justice workflows.
+- Enabled secure, reliable **cross-agency data exchange** between courts, detention centers, law enforcement, DMV, and central IT organizations.
+- Designed and maintained **automated workflows, batch processes, and system notifications** supporting daily court operations.
+
+### 🔐 Security, Compliance & Governance
+- Implemented **role-based access control (RBAC)** and authentication/authorization mechanisms aligned with internal county and justice-system policies.
+- Designed systems with **CJIS-aware security considerations**, including controlled access, audit trails, and least-privilege principles.
+- Supported environments requiring **change management, traceability, and deployment approvals** to reduce risk in production systems.
+- Ensured systems were built with **audit readiness** in mind, including logging, monitoring, and documentation standards.
+
+### 🔄 Enterprise Integration & Reliability
+- Built and maintained **BizTalk orchestrations, schemas, pipelines, and integrations** supporting high-volume, daily data exchange.
+- Integrated legacy systems with modern platforms using **.NET Core, APIs, messaging patterns, and XML-based contracts**.
+- Monitored and optimized **system performance, batch jobs, and integrations**, proactively addressing bottlenecks and failures.
+- Supported **data reconciliation, troubleshooting, and root-cause analysis** using complex SQL queries and logs.
+
+### 📋 Documentation & Operational Excellence
+- Authored and maintained **technical documentation, system diagrams, SOPs, and runbooks** for development and operations teams.
+- Established internal **knowledge bases and SharePoint documentation** to improve onboarding and reduce single-point-of-failure knowledge.
+- Collaborated closely with analysts, stakeholders, and vendors to translate business and policy requirements into technical solutions.
+
+> **Summary:**  
+> My government experience has shaped how I design software: prioritizing **stability over flash**, **clarity over cleverness**, and **long-term maintainability over short-term gains**—while still delivering modern, efficient solutions.
+
+---
+## 🚀 Featured Project for all types of POC
 
 ### **vibe-coding**
 
