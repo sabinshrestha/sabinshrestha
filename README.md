@@ -8,22 +8,23 @@
 <p align="center">
   <!-- GitHub -->
   <a href="https://github.com/sabinshrestha">
-    <img src="https://img.shields.io/badge/@sabinshrestha-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-@sabinshrestha-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 
-  <!-- LinkedIn -->
+  <!-- LinkedIn (fixed: label-message-color + logo) -->
   <a href="https://www.linkedin.com/in/sabins649/">
-    <img src="https://img.shields.io/badge/Sabin%20Shrestha-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Sabin%20Shrestha-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 
-  <!-- Portfolio (repo-based for now) -->
+  <!-- Portfolio (fixed: add logo) -->
   <a href="https://github.com/sabinshrestha/iamsabin">
-    <img src="https://img.shields.io/badge/iamsabin-portfolio-brightgreen?style=flat-square" />
+    <img src="https://img.shields.io/badge/Portfolio-iamsabin-brightgreen?style=flat-square&logo=github&logoColor=white" />
   </a>
 
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=sabinshrestha&color=ff69b4&style=flat-square" />
 </p>
+
 
 ---
 
