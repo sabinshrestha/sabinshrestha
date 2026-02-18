@@ -17,8 +17,8 @@
   </a>
 
   <!-- Portfolio (fixed: add logo) -->
-  <a href="[https://github.com/sabinshrestha/iamsabin](https://bold.pro/my/sabin-shrestha)">
-    <img src="https://img.shields.io/badge/Portfolio-iamsabin-brightgreen?style=flat-square&logo=github&logoColor=white" />
+  <a href="https://bold.pro/my/sabin-shrestha">
+    <img src="https://img.shields.io/badge/Portfolio-sabinshrestha-brightgreen?style=flat-square&logo=github&logoColor=white" />
   </a>
 
   <!-- Profile Views -->
