@@ -110,8 +110,6 @@ A personal engineering sandbox and portfolio project for building fast, validati
 - Reusable workflows and automation via new-poc.sh, lint-all.sh, and test-all.sh
 - Full-stack architecture patterns across client, server, and workout-platform
 
---
-
 
 ## 🧠 Documentation & Knowledge
 
