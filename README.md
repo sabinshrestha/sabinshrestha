@@ -127,7 +127,6 @@ I care deeply about:
   <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
 </p>
 
-
 ---
 
 ## 📊 GitHub Overview (Stable)
@@ -142,36 +141,39 @@ I care deeply about:
 > Most professional work has been delivered in **enterprise and government-controlled repositories** under strict security and compliance requirements.
 
 ---
-## 🏛️ Government, CJIS & Law-Enforcement Experience
+## 🏭 Production Systems I’ve Supported
 
-I bring deep experience delivering and supporting **mission-critical systems in CJIS-aware, law-enforcement, and justice environments**, where **security failures, downtime, or data integrity issues are not acceptable**.
+I have supported, maintained, and enhanced **high-availability, mission-critical production systems** used daily across **government, justice, healthcare, and enterprise environments**. These systems operate under strict requirements for **uptime, data integrity, security, and auditability**.
 
-My work has supported systems used daily by **courts, clerks, detention centers, law enforcement agencies, DMV, and central IT organizations**, operating under strict governance, audit, and operational constraints.
+### ⚖️ Justice & Government Systems
+- **Court Case Management Platforms** supporting criminal, civil, traffic, and specialty courts.
+- **Justice ERP-style systems** handling case workflows, scheduling, financial processing, and reporting.
+- **Cross-agency integration systems** enabling secure data exchange between courts, law enforcement, detention centers, DMV, and central IT organizations.
+- **Automated notifications and batch processing systems** supporting daily court operations and compliance reporting.
 
-### ⚖️ Justice & Law-Enforcement Systems
-- Designed, enhanced, and supported **court case management and ERP-style systems** used across criminal, civil, and administrative operations.
-- Delivered integrations supporting the **Odyssey Court Management System**, enabling secure data exchange between courts and external justice partners.
-- Enabled **cross-agency information flow** between law enforcement, detention facilities, courts, and state agencies while preserving data accuracy and traceability.
-- Supported **batch processing, scheduled jobs, and real-time integrations** critical to daily justice operations.
+### 🔄 Enterprise Integration & Messaging
+- **BizTalk-based integration platforms** supporting high-volume, daily data exchange using orchestrations, schemas, pipelines, and message routing.
+- **XML/SOAP and REST-based service integrations** connecting legacy systems with modern applications.
+- **Scheduled jobs and batch workflows** for data synchronization, reconciliation, and system notifications.
+- **Error handling, retry, and monitoring mechanisms** to ensure reliability and operational resilience.
 
-### 🔐 CJIS-Aware Security & Compliance
-- Built systems with **CJIS security principles in mind**, including controlled access, least privilege, auditability, and environment separation.
-- Implemented **role-based access control (RBAC)**, authentication, and authorization aligned with county and justice-system security policies.
-- Worked within environments requiring **formal change management, approvals, and traceability** before production deployments.
-- Designed integrations and workflows with **audit readiness**, logging, and accountability as first-class requirements.
+### 🏥 Healthcare & Enterprise Applications
+- **Public-facing and internal enterprise applications** supporting enrollment, education, reporting, and workflow automation.
+- **Healthcare scheduling and tracking systems** used by administrators, educators, and end users.
+- **Role-based secured applications** handling sensitive personal and operational data.
+- **Legacy system modernization initiatives**, including migration from VB.NET and older ASP.NET applications to modern .NET Core architectures.
 
-### 🔄 Enterprise Integration & Operational Reliability
-- Built and maintained **BizTalk orchestrations, schemas, pipelines, and message-based integrations** supporting high-volume, daily justice data exchange.
-- Modernized legacy platforms by migrating **.NET Framework applications to .NET Core**, improving security, performance, and maintainability.
-- Monitored system health, integration performance, and batch processing to proactively identify and resolve issues.
-- Performed **root-cause analysis, data reconciliation, and incident support** using advanced SQL queries and diagnostic logs.
+### 🛠️ Operational Responsibilities
+- Production support, monitoring, and incident response for **24/7 systems**.
+- Root-cause analysis and remediation of **production issues and data discrepancies**.
+- Performance tuning and optimization across application, integration, and database layers.
+- Deployment coordination under **formal change management and approval processes**.
+- Creation and maintenance of **runbooks, SOPs, and operational documentation**.
 
-### 📋 Documentation, Governance & Knowledge Transfer
-- Authored **technical documentation, system diagrams, SOPs, and runbooks** to support audits, onboarding, and long-term sustainability.
-- Maintained structured documentation in **SharePoint and internal knowledge bases**, reducing operational risk and single-point-of-failure knowledge.
-- Collaborated closely with analysts, leadership, vendors, and central IT to translate **policy, compliance, and operational requirements** into technical solutions.
+> **Impact:**  
+> Supporting production systems in regulated environments has shaped how I build software—prioritizing **stability, observability, security, and long-term maintainability** over shortcuts or experimental approaches.
 
----
+
 
 ## 🔗 Why This Matters to Private-Sector Teams
 
