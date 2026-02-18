@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Senior Software Engineer and System Integration Specialist** with **11+ years of experience** building, modernizing, and supporting **mission-critical enterprise systems**, primarily within **government and justice-related environments**.
+I’m a **Senior Software Engineer and System Integration Specialist** with **13+ years of experience** building, modernizing, and supporting **mission-critical enterprise systems**, primarily within **government and justice-related environments**.
 
 My background includes extensive work on **court case management platforms, ERP-style systems, secure data integrations, and automated workflows**, where reliability, auditability, and long-term maintainability are essential. I have a proven track record of supporting systems that operate across multiple departments and external agencies, ensuring accurate, secure, and timely data exchange.
 
