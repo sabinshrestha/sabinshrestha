@@ -1,58 +1,66 @@
 <h1 align="center">Hi there, I'm Sabin Shrestha 👋</h1>
 
 <p align="center">
-  <b>Senior Software Engineer • System Integration Specialist • Full-Stack Developer</b>
+  <b>Senior Software Engineer • System Integration Specialist • Enterprise Full-Stack Developer</b>
 </p>
 
-<!-- Social + Profile -->
 <p align="center">
-  <!-- GitHub -->
+  Building reliable software for regulated, high-trust, mission-critical environments.
+</p>
+
+<p align="center">
   <a href="https://github.com/sabinshrestha">
-    <img src="https://img.shields.io/badge/GitHub-@sabinshrestha-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-@sabinshrestha-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sabins649/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sabin%20Shrestha-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Sabin%20Shrestha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <!-- Portfolio -->
   <a href="https://bold.pro/my/sabin-shrestha">
-    <img src="https://img.shields.io/badge/Portfolio-sabinshrestha-brightgreen?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-View%20Profile-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
+</p>
 
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=sabinshrestha&color=ff69b4&style=flat-square" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sabinshrestha&color=brightgreen&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/sabinshrestha?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/sabinshrestha?style=flat-square" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **Senior Software Engineer and System Integration Specialist** with **13+ years of experience** building, modernizing, and supporting **mission-critical enterprise systems**, primarily within **government and justice-related environments**.
+I’m a **Senior Software Engineer and System Integration Specialist** with **13+ years of experience** building, modernizing, and supporting **mission-critical enterprise systems** across **government, justice, healthcare, and regulated environments**.
 
-My background includes extensive work on **court case management platforms, ERP-style systems, secure data integrations, and automated workflows**, where reliability, auditability, and long-term maintainability are essential. I have a proven track record of supporting systems that operate across multiple departments and external agencies, ensuring accurate, secure, and timely data exchange.
+My work has centered on **court case management systems, ERP-style platforms, secure integrations, workflow automation, and production support**, where **stability, auditability, security, and maintainability** are non-negotiable.
 
-I bring a strong balance of **hands-on engineering, architectural thinking, and cross-team collaboration**, with a focus on delivering solutions that are stable, well-documented, and built to last.
+I bring a strong mix of:
+
+- hands-on engineering  
+- system architecture and modernization  
+- cross-team collaboration  
+- production support discipline  
+- documentation-first thinking  
 
 I care deeply about:
+
 - long-term system stability and reliability  
 - clean architecture and maintainable codebases  
 - clear documentation and knowledge transfer  
-- secure, compliance-driven system design  
+- secure, compliance-aligned system design  
 
 ---
 
 ## 🚀 What I Do
 
 - 🏛️ Design and support **enterprise-grade systems** for government and justice operations  
-- 🔄 Build and maintain **system integrations** across internal departments and external agencies  
-- 🧩 Modernize legacy applications (e.g., **.NET Framework → .NET Core**)  
-- 🧱 Apply **Clean Architecture**, layered design, and best practices  
-- 📊 Analyze, troubleshoot, and optimize complex **SQL Server–based data flows**  
-- 🛡️ Implement **role-based security**, access controls, and compliance-aligned designs  
-- 📝 Produce clear technical documentation for long-term maintainability and audits  
-- 🤝 Collaborate with analysts, vendors, and cross-functional stakeholders  
+- 🔄 Build and maintain **secure system integrations** across departments and external agencies  
+- 🧩 Modernize legacy applications, including **.NET Framework → .NET Core** transitions  
+- 🧱 Apply **Clean Architecture**, layered design, and maintainable engineering practices  
+- 📊 Analyze, troubleshoot, and optimize complex **SQL Server–driven data flows**  
+- 🛡️ Implement **role-based security**, access controls, and compliance-aware solutions  
+- 📝 Create technical documentation that supports long-term operations, audits, and onboarding  
+- 🤝 Collaborate with analysts, vendors, and non-technical stakeholders to deliver reliable outcomes  
 
 ---
 
@@ -61,9 +69,9 @@ I care deeply about:
 ### 🔹 Core Languages & Backend Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/VB.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" />
 </p>
 
 ### 🔹 Enterprise Integration, Messaging & Automation
@@ -72,8 +80,8 @@ I care deeply about:
   <img src="https://img.shields.io/badge/Azure%20Logic%20Apps-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" />
   <img src="https://img.shields.io/badge/XML-0060AC?style=flat-square&logo=xml&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOAP-6DB33F?style=flat-square" />
-  <img src="https://img.shields.io/badge/REST-02569B?style=flat-square" />
+  <img src="https://img.shields.io/badge/SOAP-4B5563?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST-0F766E?style=flat-square" />
 </p>
 
 ### 🔹 Databases & Data Platforms
@@ -87,7 +95,7 @@ I care deeply about:
 
 ### 🔹 Cloud, Servers & Enterprise Infrastructure
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/IIS-5C2D91?style=flat-square&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Active%20Directory-003A8F?style=flat-square" />
@@ -97,8 +105,8 @@ I care deeply about:
 ### 🔹 DevOps, CI/CD & Delivery
 <p align="center">
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2C2C2C?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-111827?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/TFS-0078D4?style=flat-square" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
@@ -123,140 +131,138 @@ I care deeply about:
   <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude%20Code-101010?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20AI-4285F4?style=flat-square&logo=google&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Overview (Stable)
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/sabinshrestha?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/sabinshrestha?style=flat-square" />
   <img src="https://img.shields.io/github/last-commit/sabinshrestha/sabinshrestha?style=flat-square" />
+  <img src="https://img.shields.io/github/commit-activity/m/sabinshrestha/sabinshrestha?style=flat-square" />
+  <img src="https://img.shields.io/github/repo-size/sabinshrestha/sabinshrestha?style=flat-square" />
 </p>
 
-> ℹ️ Public GitHub activity reflects **personal projects, tooling, and experimentation**.  
-> Most professional work has been delivered in **enterprise and government-controlled repositories** under strict security and compliance requirements.
+> ℹ️ Public GitHub activity reflects **personal projects, experiments, tooling, and portfolio work**.  
+> Much of my professional delivery has been performed within **enterprise and government-controlled repositories** with strict security and compliance constraints.
 
 ---
+
 ## 🏭 Production Systems I’ve Supported
 
 I have supported, maintained, and enhanced **high-availability, mission-critical production systems** used daily across **government, justice, healthcare, and enterprise environments**. These systems operate under strict requirements for **uptime, data integrity, security, and auditability**.
 
 ### ⚖️ Justice & Government Systems
-- **Court Case Management Platforms** supporting criminal, civil, traffic, and specialty courts.
-- **Justice ERP-style systems** handling case workflows, scheduling, financial processing, and reporting.
-- **Cross-agency integration systems** enabling secure data exchange between courts, law enforcement, detention centers, DMV, and central IT organizations.
-- **Automated notifications and batch processing systems** supporting daily court operations and compliance reporting.
+- **Court case management platforms** supporting criminal, civil, traffic, and specialty courts  
+- **Justice ERP-style systems** handling workflows, scheduling, financial processing, and reporting  
+- **Cross-agency integration systems** enabling secure data exchange between courts, law enforcement, detention centers, DMV, and central IT organizations  
+- **Automated notifications and batch-processing systems** supporting daily operations and compliance reporting  
 
 ### 🔄 Enterprise Integration & Messaging
-- **BizTalk-based integration platforms** supporting high-volume, daily data exchange using orchestrations, schemas, pipelines, and message routing.
-- **XML/SOAP and REST-based service integrations** connecting legacy systems with modern applications.
-- **Scheduled jobs and batch workflows** for data synchronization, reconciliation, and system notifications.
-- **Error handling, retry, and monitoring mechanisms** to ensure reliability and operational resilience.
+- **BizTalk-based integration platforms** supporting high-volume daily data exchange through orchestrations, schemas, pipelines, and routing  
+- **XML/SOAP and REST integrations** connecting legacy systems with modern services  
+- **Scheduled jobs and batch workflows** for synchronization, reconciliation, and notifications  
+- **Error handling, retry, and monitoring mechanisms** to improve operational resilience  
 
 ### 🏥 Healthcare & Enterprise Applications
-- **Public-facing and internal enterprise applications** supporting enrollment, education, reporting, and workflow automation.
-- **Healthcare scheduling and tracking systems** used by administrators, educators, and end users.
-- **Role-based secured applications** handling sensitive personal and operational data.
-- **Legacy system modernization initiatives**, including migration from VB.NET and older ASP.NET applications to modern .NET Core architectures.
+- **Public-facing and internal applications** supporting enrollment, reporting, scheduling, and workflow automation  
+- **Role-based secured applications** handling sensitive operational and personal data  
+- **Legacy modernization efforts** spanning VB.NET, older ASP.NET systems, and modern .NET Core architectures  
 
 ### 🛠️ Operational Responsibilities
-- Production support, monitoring, and incident response for **24/7 systems**.
-- Root-cause analysis and remediation of **production issues and data discrepancies**.
-- Performance tuning and optimization across application, integration, and database layers.
-- Deployment coordination under **formal change management and approval processes**.
-- Creation and maintenance of **runbooks, SOPs, and operational documentation**.
+- Production support, monitoring, and incident response for **24/7 systems**  
+- Root-cause analysis and remediation of **production issues and data discrepancies**  
+- Performance tuning across application, integration, and database layers  
+- Deployment coordination under **formal change management**  
+- Creation and maintenance of **runbooks, SOPs, and operational documentation**  
 
 > **Impact:**  
-> Supporting production systems in regulated environments has shaped how I build software—prioritizing **stability, observability, security, and long-term maintainability** over shortcuts or experimental approaches.
+> Working in regulated environments has shaped how I engineer software: with a bias toward **stability, observability, security, and long-term maintainability**.
 
-
+---
 
 ## 🔗 Why This Matters to Private-Sector Teams
 
-Experience in CJIS and law-enforcement environments directly translates to **stronger engineering outcomes in any regulated or high-scale organization**.
+Experience in CJIS and law-enforcement environments translates directly into stronger outcomes for **regulated, high-scale, and reliability-sensitive organizations**.
 
 Teams benefit from engineers who:
-- Design systems assuming **failure is costly**, not theoretical
-- Prioritize **security, observability, and auditability** from day one
-- Respect **change control, production stability, and backward compatibility**
-- Write software that is **maintainable by teams—not just its original author**
-- Communicate clearly with **non-technical stakeholders** under real operational pressure
+
+- design systems assuming **failure is costly**  
+- prioritize **security, observability, and auditability** early  
+- respect **change control, production stability, and backward compatibility**  
+- build software that teams can maintain long after the original author moves on  
+- communicate clearly with both technical and non-technical stakeholders  
 
 In practice, this means I bring:
-- Fewer production incidents  
-- Safer deployments  
-- Better documentation  
-- More predictable delivery  
-- Systems that scale **operationally**, not just technically  
+
+- fewer production incidents  
+- safer deployments  
+- stronger documentation  
+- more predictable delivery  
+- systems that scale **operationally**, not just technically  
 
 > **Bottom line:**  
-> Building software for justice and law-enforcement environments trains you to engineer for **trust, reliability, and accountability**—qualities that elevate both public-sector and private-sector systems.
+> Building software for justice and law-enforcement environments trains you to engineer for **trust, reliability, and accountability**.
 
 ---
-## 🚀 Featured Project for all types of POC
+
+## 🚀 Featured Project
 
 ### **vibe-coding**
 
 A personal engineering sandbox and portfolio project for building fast, validating ideas, and demonstrating production-style full-stack architecture across multiple stacks.
 
-🔗 https://github.com/sabinshrestha/vibe-coding
+<p align="left">
+  <a href="https://github.com/sabinshrestha/vibe-coding"><b>🔗 View Repository</b></a>
+</p>
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/github/stars/sabinshrestha/vibe-coding?style=flat-square" />
   <img src="https://img.shields.io/github/forks/sabinshrestha/vibe-coding?style=flat-square" />
   <img src="https://img.shields.io/github/repo-size/sabinshrestha/vibe-coding?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/sabinshrestha/vibe-coding?style=flat-square" />
 </p>
 
 **Focus areas:**
 
-- Rapid POC development and iteration in pocs
-- Documentation-driven engineering in index.md
-- Reusable workflows and automation via new-poc.sh, lint-all.sh, and test-all.sh
-- Full-stack architecture patterns across client, server, and workout-platform
+- rapid POC development and iteration  
+- documentation-driven engineering  
+- reusable workflows and automation  
+- full-stack architecture patterns across client, server, and experiments  
 
+---
 
 ## 🧠 Documentation & Knowledge
 
-- 📘 Clean, readable READMEs  
-- 📊 Architecture diagrams where they add value  
-- 🤖 AI-assisted documentation (DeepWiki-style workflows)  
-- 🧭 Emphasis on clarity for future maintainers and auditors  
+- 📘 clean, readable READMEs  
+- 📊 architecture diagrams where they add value  
+- 🤖 AI-assisted documentation workflows  
+- 🧭 emphasis on clarity for future maintainers, operators, and auditors  
 
 ---
 
 ## 📈 GitHub Activity
 
 <p align="center">
-
-  <!-- Contribution Graph -->
-  <p align="center">
-    <img src="https://ghchart.rshah.org/sabinshrestha" />
-  </p>
+  <img src="https://ghchart.rshah.org/sabinshrestha" alt="Sabin Shrestha GitHub contribution chart" />
 </p>
 
 <p align="center">
-
-  
-
-  <!-- GitHub Streak -->
-  <img height="160" src="https://streak-stats.demolab.com?user=sabinshrestha&theme=default&hide_border=true" />
-
+  <img height="165" src="https://streak-stats.demolab.com?user=sabinshrestha&hide_border=true" alt="GitHub streak stats" />
 </p>
 
+---
 
 ## 📫 Get In Touch
 
 - 🐙 GitHub: https://github.com/sabinshrestha  
 - 💼 LinkedIn: https://www.linkedin.com/in/sabins649/  
+- 🌐 Portfolio: https://bold.pro/my/sabin-shrestha  
 
 ---
 
 <p align="center">
   <i>⭐ Thanks for stopping by — let’s build something meaningful.</i>
 </p>
-
-
