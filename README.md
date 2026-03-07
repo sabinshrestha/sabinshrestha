@@ -247,15 +247,6 @@ A personal engineering sandbox and portfolio project for building fast, validati
 
 </p>
 
-<p align="center">
-
-  <!-- GitHub Stats -->
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sabinshrestha&show_icons=true&hide_border=true" />
-
-  <!-- GitHub Streak -->
-  <img height="160" src="https://streak-stats.demolab.com?user=sabinshrestha&hide_border=true" />
-
-</p>
 
 ## 📫 Get In Touch
 
