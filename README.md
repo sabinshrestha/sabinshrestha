@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <code>.NET</code> • <code>System Integration</code> • <code>BizTalk</code> • <code>SQL Server</code> • <code>Azure</code> • <code>Enterprise Architecture</code>
+</p>
+
+<p align="center">
   <a href="https://github.com/sabinshrestha">
     <img src="https://img.shields.io/badge/GitHub-@sabinshrestha-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
