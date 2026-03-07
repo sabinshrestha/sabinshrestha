@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <code>.NET</code> • <code>System Integration</code> • <code>BizTalk</code> • <code>SQL Server</code> • <code>Azure</code> • <code>Enterprise Architecture</code>
+  <code>.NET</code> • <code>Distributed Systems</code> • <code>Cloud Architecture</code> • <code>System Integration</code> • <code>SQL & Data Platforms</code> • <code>Enterprise Systems</code>
 </p>
 
 <p align="center">
