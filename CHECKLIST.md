@@ -4,7 +4,7 @@ Use this checklist to ensure you've customized all parts of your GitHub profile 
 
 ## ✅ Pre-Setup
 
-- [ ] Create a new repository with the same name as your GitHub username
+- [ -] Create a new repository with the same name as your GitHub username
 - [ ] Make the repository **public**
 - [ ] Copy the contents of `README.md` from this template
 
