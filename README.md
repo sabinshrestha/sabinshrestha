@@ -34,9 +34,9 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Senior Software Engineer and System Integration Specialist** with **13+ years of experience** building, modernizing, and supporting **mission-critical enterprise systems** across **government, justice, healthcare, and regulated environments**.
+I’m a **Senior Software Engineer and System Integration Specialist** with **13+ years of experience** building, modernizing, and supporting **mission-critical enterprise systems** across **public-sector, healthcare, and regulated environments**.
 
-My work has centered on **court case management systems, ERP-style platforms, secure integrations, workflow automation, and production support**, where **stability, auditability, security, and maintainability** are non-negotiable.
+My work has centered on **enterprise platforms, secure integrations, workflow automation, and production support**, where **stability, security, data integrity, and maintainability** are non-negotiable.
 
 I bring a strong mix of:
 
@@ -57,7 +57,7 @@ I care deeply about:
 
 ## 🚀 What I Do
 
-- 🏛️ Design and support **enterprise-grade systems** for government and justice operations  
+- 🏛️ Design and support **enterprise-grade systems** for public-sector and regulated operations
 - 🔄 Build and maintain **secure system integrations** across departments and external agencies  
 - 🧩 Modernize legacy applications, including **.NET Framework → .NET Core** transitions  
 - 🧱 Apply **Clean Architecture**, layered design, and maintainable engineering practices  
@@ -156,13 +156,13 @@ I care deeply about:
 
 ## 🏭 Production Systems I’ve Supported
 
-I have supported, maintained, and enhanced **high-availability, mission-critical production systems** used daily across **government, justice, healthcare, and enterprise environments**. These systems operate under strict requirements for **uptime, data integrity, security, and auditability**.
+I have supported, maintained, and enhanced **high-availability, mission-critical production systems** used daily across **public-sector, healthcare, and enterprise environments**. These systems operate under strict requirements for **uptime, data integrity, security, and operational continuity**.
 
-### ⚖️ Justice & Government Systems
-- **Court case management platforms** supporting criminal, civil, traffic, and specialty courts  
-- **Justice ERP-style systems** handling workflows, scheduling, financial processing, and reporting  
-- **Cross-agency integration systems** enabling secure data exchange between courts, law enforcement, detention centers, DMV, and central IT organizations  
-- **Automated notifications and batch-processing systems** supporting daily operations and compliance reporting  
+### 🏛️ Public-Sector & Regulated Systems
+- **Enterprise platforms** supporting complex workflows, scheduling, financial processing, reporting, and public services
+- **Secure integration systems** enabling reliable data exchange across departments and external partners
+- **Role-based applications** designed for sensitive operational and personal data
+- **Automated notifications and batch-processing systems** supporting daily operations and compliance reporting
 
 ### 🔄 Enterprise Integration & Messaging
 - **BizTalk-based integration platforms** supporting high-volume daily data exchange through orchestrations, schemas, pipelines, and routing  
@@ -189,7 +189,7 @@ I have supported, maintained, and enhanced **high-availability, mission-critical
 
 ## 🔗 Why This Matters to Private-Sector Teams
 
-Experience in CJIS and law-enforcement environments translates directly into stronger outcomes for **regulated, high-scale, and reliability-sensitive organizations**.
+Experience in public-sector and regulated environments translates directly into stronger outcomes for **high-scale, reliability-sensitive organizations**.
 
 Teams benefit from engineers who:
 
@@ -208,7 +208,7 @@ In practice, this means I bring:
 - systems that scale **operationally**, not just technically  
 
 > **Bottom line:**  
-> Building software for justice and law-enforcement environments trains you to engineer for **trust, reliability, and accountability**.
+> Building software for public-sector and regulated environments trains you to engineer for **trust, reliability, and accountability**.
 
 ---
 
